@@ -1,8 +1,11 @@
 echo "Hello World";
 
 echo 'Ei Ei Htwe';
+<<<<<<< HEAD
+
+test for conflict
+=======
 test for conflict
 
 test
-
-test for conflict
+>>>>>>> master
