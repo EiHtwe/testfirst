@@ -1,0 +1,7 @@
+echo "Hello World";
+
+<<<<<<< HEAD
+test for conflict
+=======
+echo 'Ei Ei Htwe';
+>>>>>>> updates
