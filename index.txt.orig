@@ -1,7 +1,15 @@
 echo "Hello World";
 
-<<<<<<< HEAD
-test for conflict
-=======
 echo 'Ei Ei Htwe';
+test for conflict
+
+test
+
+<<<<<<< HEAD
+Hi hhh
+=======
+test for conflict
+
+test EI 
+htet ko hmue
 >>>>>>> updates
